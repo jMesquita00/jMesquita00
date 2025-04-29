@@ -70,19 +70,13 @@
 - Participação em eventos de tecnologia
 - II Semana da Computação - 2023
 - Ideathon - 2024 (2° lugar)
-<!-- - Leituras técnicas semanais-->
-
-
+  
 ## 📫 Como Me Encontrar
   <br>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" link="www.linkedin.com/in/joao-marcos-mesquita007"></img>
-  
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" link="www.github.com/jMesquita00"></img>
-  
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" link="www.github.com/jMesquita00"></img> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" link="jmphlm2@gmail.com"></img>
   
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" link="jmphlm2@gmail.com"></img>
-
 ## 💬 Vamos Conversar!
 Estou aberto a:
 - Oportunidades de estágio e júnior
